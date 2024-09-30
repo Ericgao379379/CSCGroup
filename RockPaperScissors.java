@@ -21,10 +21,18 @@ public class RockPaperScissors {
     int playerWins = 0;
     int ties = 0;
     //Global
+    int playerRock = 0;
+    int playerPaper = 0;
+    int playerScissors = 0;
+    //Global
     if(computer win){
-    computerWins++
+    computerWins++;
     }
     if(player win){
-    play
+    playerWins++;
+    }
+    if(tie){
+    ties++;
+    }
      */
 }
